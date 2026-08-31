@@ -70,3 +70,7 @@ Since early and middle layers capture generic visual features, they can be reuse
 
 ## CONCLUSION
 Transfer learning was successfully studied and implemented using a pre-trained CNN model. It was observed that reusing the learned features of a network trained on a large dataset significantly improves classification performance on a new, smaller dataset while reducing training time and computational resources. This confirms that transfer learning is an effective and efficient approach for building high-performing CNN models, especially in scenarios where labeled data is limited.
+
+---
+
+<img width="1280" height="853" alt="WhatsApp Image 2026-08-31 at 2 45 38 PM" src="https://github.com/user-attachments/assets/7981bb53-07e6-4af0-87b2-9f21f31cdc5c" />
